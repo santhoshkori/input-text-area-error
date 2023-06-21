@@ -1,0 +1,44 @@
+.commentscontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 40vh;
+  padding: 0px;
+}
+.serachcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.buttonele {
+  color: #fff;
+  background-color: #0284c7;
+  border-radius: 3px;
+  border-style: none;
+  outline: none;
+  cursor: pointer;
+  padding: 5px;
+  margin-top: 5px;
+}
+.commentsimgage {
+  align-self: flex-end;
+  margin-right: 70px;
+}
+.bgcontainer {
+  padding: 60px;
+}
+.inputele {
+  margin-bottom: 10px;
+}
+.spanele {
+  background-color: #0b69ff;
+  color: #fff;
+  padding: 5px;
+  border-radius: 3px;
+}
+.unorderlistelement {
+  list-style: none;
+  padding: 0px;
+}

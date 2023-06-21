@@ -1,0 +1,63 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.itemsspanele {
+  color: #fff;
+  background-color: #b91c1c;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 50px;
+}
+.listItem {
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+.listcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.timeele {
+  margin-left: 20px;
+  color: #cbd2d9;
+}
+.descriptionele {
+  margin-left: 30px;
+}
+.deletelikecontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.nameparaele {
+  font-weight: 700;
+}
